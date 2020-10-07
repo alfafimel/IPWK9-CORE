@@ -16,7 +16,7 @@ Test Dataset Source: Link (https://archive.org/download/test1_202002/test%20%281
 3. For dataset 2, perform classification of the testing set samples using the Naive Bayes Classifier.
 4. Compute the accuracy (percentage of correct classification).
 5. Report the confusion matrix of each classifier.
-6. Repeat step 2 to step 4 twice, each time splitting the datasets differently i.e. 70-30, 60-40, then note the outcomes of your modeling.
+6. Repeat step 1 to step 3 twice, each time splitting the datasets differently i.e. 70-30, 60-40, then note the outcomes of your modeling.
 7. Suggest and apply at least one of the optimization techniques that you learned earlier this week.
 8. Provide further recommendations to improve both classifiers.
 
